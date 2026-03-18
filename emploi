@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+    <title>emploi s2 iail </title>
+
+</head>
+<body>
+    <h2>emploi</h2>
+    <table de bord="1">
+        <tr>
+         <th>heur</th>
+        <th>lundi</th>
+        <th>mardi</th>
+        <th>mercredi</th>
+        <th>jeudi</th>
+        <th>vendredi</th>
+        <th>samedi</th>
+
+        </tr>
+        <tr>
+            <td>8:00-10:30</td>
+            <td>programation python 2 - cours</td>
+            <td>programation python -td g1</td>
+            <td></td>
+            <td>traitement de signial cours</td>
+            <td>algebre 2 cours</td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <td>10:30-12:00</td>
+            <td>algorithme et programation c -cours </td>
+            <td></td>
+            <td></td>
+            <td>traitement de signial td</td>
+            <td>analyse 2 -cours </td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <td>12:15-13:45</td>
+            <td></td>
+            <td>digital skils &inteelegence arthificielle</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr>
+            <td>13:45-15:15</td>
+            <td>algorithme et programation c -td&tp</td>
+            <td>digital skils& intellegence arthificelle -td&tp</td>
+            <td>algorithme et programation c -g2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>  
+        <tr>
+            <td>15:30-17:00</td>
+            <td>programation python 2 - g2</td>
+            <td></td>
+            <td>algebre 2-td</td>
+            <td></td>
+            <td></td>
+            <td>programation web 1 - cours</td>
+        </tr>
+        <tr>
+            <td>17:00-18:30</td>
+            <td>programation python 2-td&tp - g2</td>
+            <td></td>
+            <td>analyse 2 -td</td>
+            <td></td>
+            <td></td>
+            <td>programmation web 1 -td&tp</td>
+        </tr>
+
+    </table>
+</body>
+
+
+
+</html>
